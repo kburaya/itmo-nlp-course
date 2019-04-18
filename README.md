@@ -15,3 +15,15 @@ Submit your answers to google form: https://goo.gl/forms/1RwJ2Qd8TqL8dK802
 Deadline: 19 February 2019.
 
 ---
+
+## Task 5
+
+In this assignment you will learn how to calculate a similarity for pieces of text. Using this approach you will know how to find duplicate questions from StackOverflow.
+
+#### How to submit
+Do all task steps in Jupyter notebook from the [task 5] folder.
+Submit your answers to google form: https://forms.gle/MVeCp9d7vUGzKjky6
+
+Deadline: 3 May 2019.
+
+---
